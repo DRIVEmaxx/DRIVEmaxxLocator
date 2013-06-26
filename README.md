@@ -1,11 +1,11 @@
 DRIVEmaxxLocator
 ================
 
-Java Minecraft plugin for block location with wooden pickaxe.
+<h3>Java Minecraft plugin for block location with wooden pickaxe.</h3>
 
-Commands:
+<b>Commands:</b>
   
-  /dl - Informations about plugin.
-  /dlhelp - How use pickaxe.
-  /dlver - Plugin version info.
-  /dltool - Give plugin tool (wooden pickaxe).
+  <p>/dl - Informations about plugin.</p>
+  <p>/dlhelp - How use pickaxe.</p>
+  <p>/dlver - Plugin version info.</p>
+  <p>/dltool - Give plugin tool (wooden pickaxe).</p>
