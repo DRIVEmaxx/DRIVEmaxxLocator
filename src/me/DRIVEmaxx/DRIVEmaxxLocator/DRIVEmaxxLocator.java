@@ -53,7 +53,7 @@ public class DRIVEmaxxLocator extends JavaPlugin
     }
     if (cmd.getName().equalsIgnoreCase("dlver"))
     {
-      sender.sendMessage(ChatColor.GOLD + "[DRIVEmaxxLocator] " + ChatColor.GREEN + "Verze pluginu je 2.1 !");
+      sender.sendMessage(ChatColor.GOLD + "[DRIVEmaxxLocator] " + ChatColor.GREEN + "Verze pluginu je 2.2 !");
     }
     return true;
   }
